@@ -1,0 +1,35 @@
+{
+  "category": "daily",
+  "sentences": [
+    {
+      "id": "daily_001",
+      "japanese": "今日の天気はどうですか？",
+      "english_examples": [
+        "How's the weather today?",
+        "What's the weather like today?"
+      ],
+      "difficulty": 1,
+      "tags": ["疑問文", "天気"]
+    },
+    {
+      "id": "daily_002",
+      "japanese": "週末は何をしましたか？",
+      "english_examples": [
+        "What did you do on the weekend?",
+        "What did you do over the weekend?"
+      ],
+      "difficulty": 1,
+      "tags": ["疑問文", "過去形"]
+    },
+    {
+      "id": "daily_003",
+      "japanese": "コーヒーをもう一杯いただけますか？",
+      "english_examples": [
+        "Could I have another cup of coffee?",
+        "Can I get another coffee?"
+      ],
+      "difficulty": 1,
+      "tags": ["依頼", "レストラン"]
+    }
+  ]
+}

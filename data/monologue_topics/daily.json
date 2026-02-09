@@ -1,0 +1,19 @@
+{
+  "category": "daily",
+  "topics": [
+    {
+      "id": "topic_daily_001",
+      "title": "あなたの趣味について",
+      "description": "趣味とその魅力について話してください。",
+      "hints": ["何が趣味か", "いつ始めたか", "なぜ好きか"],
+      "difficulty": 1
+    },
+    {
+      "id": "topic_daily_002",
+      "title": "最近見た映画やドラマについて",
+      "description": "最近見た作品の感想を話してください。",
+      "hints": ["タイトル", "あらすじ", "感想", "おすすめポイント"],
+      "difficulty": 1
+    }
+  ]
+}

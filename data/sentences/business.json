@@ -1,0 +1,55 @@
+{
+  "category": "business",
+  "sentences": [
+    {
+      "id": "biz_001",
+      "japanese": "私は昨日オンラインで注文をしました。",
+      "english_examples": [
+        "I ordered something online yesterday.",
+        "I placed an order online yesterday."
+      ],
+      "difficulty": 1,
+      "tags": ["過去形", "オンラインショッピング"]
+    },
+    {
+      "id": "biz_002",
+      "japanese": "CEOが予算を承認しました。",
+      "english_examples": [
+        "The CEO approved the budget.",
+        "The CEO has approved the budget."
+      ],
+      "difficulty": 2,
+      "tags": ["過去形", "ビジネス用語"]
+    },
+    {
+      "id": "biz_003",
+      "japanese": "私たちは昨日クライアントに会いました。",
+      "english_examples": [
+        "We met with the client yesterday.",
+        "We met the client yesterday."
+      ],
+      "difficulty": 1,
+      "tags": ["過去形", "クライアント対応"]
+    },
+    {
+      "id": "biz_004",
+      "japanese": "私たちの会社には15の部署があります。",
+      "english_examples": [
+        "Our company has 15 departments.",
+        "There are 15 departments in our company."
+      ],
+      "difficulty": 1,
+      "tags": ["現在形", "会社組織"]
+    },
+    {
+      "id": "biz_005",
+      "japanese": "会議を来週に延期しましょう。",
+      "english_examples": [
+        "Let's postpone the meeting to next week.",
+        "Let's reschedule the meeting for next week."
+      ],
+      "difficulty": 2,
+      "tags": ["提案", "スケジュール"]
+    }
+  ]
+}

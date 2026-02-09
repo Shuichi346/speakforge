@@ -1,0 +1,55 @@
+{
+  "category": "engineer",
+  "sentences": [
+    {
+      "id": "eng_001",
+      "japanese": "ウェブサイトがダウンしています。ログを確認しています。",
+      "english_examples": [
+        "The website is down. I'm checking the logs.",
+        "The website is down. Checking the logs."
+      ],
+      "difficulty": 1,
+      "tags": ["障害対応", "現在進行形"]
+    },
+    {
+      "id": "eng_002",
+      "japanese": "サービス中断についてチームに連絡しましょう。",
+      "english_examples": [
+        "Let's notify the team about the service interruption.",
+        "Let's tell the team about the service outage."
+      ],
+      "difficulty": 2,
+      "tags": ["提案", "障害対応"]
+    },
+    {
+      "id": "eng_003",
+      "japanese": "このAPIはレート制限があります。",
+      "english_examples": [
+        "This API has rate limiting.",
+        "This API is rate-limited."
+      ],
+      "difficulty": 2,
+      "tags": ["API", "技術用語"]
+    },
+    {
+      "id": "eng_004",
+      "japanese": "コードレビューをお願いできますか？",
+      "english_examples": [
+        "Could you review my code?",
+        "Can you do a code review?"
+      ],
+      "difficulty": 1,
+      "tags": ["依頼", "コードレビュー"]
+    },
+    {
+      "id": "eng_005",
+      "japanese": "デプロイは明日の朝に予定されています。",
+      "english_examples": [
+        "The deployment is scheduled for tomorrow morning.",
+        "We're scheduled to deploy tomorrow morning."
+      ],
+      "difficulty": 2,
+      "tags": ["受動態", "デプロイ"]
+    }
+  ]
+}
